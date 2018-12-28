@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "got": "^9.5.0"
+  },
+  "name": "got9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:palamccc/got9.git",
+  "author": "palam+dot+c@gmail.com",
+  "license": "MIT"
+}
